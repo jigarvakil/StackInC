@@ -123,4 +123,4 @@ void main()
 
 ```
 
-_For More Details or problems contact Jigarvakil9200@fmail.com_
+_For More Details or problems contact Jigarvakil9200@gmail.com_

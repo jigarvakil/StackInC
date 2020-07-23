@@ -1,4 +1,5 @@
-# StackInC
+# GitHub ( Jigar Vakil )
+# Stack Implementation Using C 
 
 **All Opration Of Stack Including PUSH,POP,PEEP,CHANGE,DISPLAY implemented using C programm**
 
